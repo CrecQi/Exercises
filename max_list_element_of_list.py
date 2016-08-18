@@ -1,3 +1,4 @@
+#Input a list contains some lists and output the largest SUM with continual list-elements
 #Please run it in terminal
 
 from sys import argv
